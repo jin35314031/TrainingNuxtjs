@@ -1,0 +1,16 @@
+[
+  {
+    "name": "price",
+    "path": "/price",
+    "component": "/Users/kensuke/Desktop/Nuxtjs/TrainingNuxtjs/hello/pages/price.vue",
+    "chunkName": "pages/price",
+    "_name": "_5e84f5e1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kensuke/Desktop/Nuxtjs/TrainingNuxtjs/hello/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a5d0fe2c"
+  }
+]

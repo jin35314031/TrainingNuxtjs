@@ -1,0 +1,16 @@
+[
+  {
+    "name": "mypage",
+    "path": "/mypage",
+    "component": "/Users/kensuke/Desktop/Nuxtjs/TrainingNuxtjs/nuxt-first-exercise/pages/mypage.vue",
+    "chunkName": "pages/mypage",
+    "_name": "_66995a34"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kensuke/Desktop/Nuxtjs/TrainingNuxtjs/nuxt-first-exercise/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fd2d2f12"
+  }
+]
