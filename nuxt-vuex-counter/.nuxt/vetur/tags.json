@@ -1,0 +1,14 @@
+{
+  "Counter": {
+    "description": "Auto imported from components/Counter.vue"
+  },
+  "LazyCounter": {
+    "description": "Auto imported from components/Counter.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  }
+}
