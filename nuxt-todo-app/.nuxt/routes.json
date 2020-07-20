@@ -1,5 +1,12 @@
 [
   {
+    "name": "todos",
+    "path": "/todos",
+    "component": "/Users/kensuke/Desktop/Nuxtjs/TrainingNuxtjs/nuxt-todo-app/pages/todos.vue",
+    "chunkName": "pages/todos",
+    "_name": "_44226257"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/kensuke/Desktop/Nuxtjs/TrainingNuxtjs/nuxt-todo-app/pages/index.vue",

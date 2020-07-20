@@ -1,5 +1,5 @@
 import { vuexfireMutations} from 'vuexfire'
 
-export const mutation = {
+export const mutations = {
     ...vuexfireMutations
 }

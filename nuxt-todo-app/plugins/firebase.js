@@ -5,7 +5,7 @@ const config = {
 }
 
 if (!firebase.apps.length){
-    firebase.iniitalizeApp(config)
+    firebase.initializeApp(config)
 }
 
 export default firebase
