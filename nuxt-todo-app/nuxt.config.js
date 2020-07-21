@@ -1,3 +1,6 @@
+const pkg = require('./package')
+//const webpack = require('webpack')
+import webpack from 'webpack'
 
 export default {
   /*
@@ -57,5 +60,13 @@ export default {
   ** See https://nuxtjs.org/api/configuration-build/
   */
   build: {
+    extend(config, ctx){
+
+    },
+    plugins: [
+      new webpack.ProvidePlugin({
+        '_':'lodash'
+      })
+    ]
   }
 }
